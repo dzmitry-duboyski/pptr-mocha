@@ -1,0 +1,28 @@
+{
+  "name": "pptr-mocha",
+  "version": "1.0.0",
+  "description": "Test framework with mocha steps and builder class pattern",
+  "keywords": [
+    "mocha",
+    "puppeteer framework"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dzmitry-duboyski/pptr-mocha.git"
+  },
+  "author": "",
+  "license": "MIT License",
+  "bugs": {
+    "url": "https://github.com/dzmitry-duboyski/pptr-mocha/issues"
+  },
+  "homepage": "https://github.com/dzmitry-duboyski/pptr-mocha#readme",
+  "dependencies": {
+    "chai": "^4.3.7",
+    "mocha": "^10.2.0",
+    "puppeteer": "^19.7.5"
+  }
+}
