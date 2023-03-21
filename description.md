@@ -22,10 +22,12 @@
 
   use `step` in test
 
+- Lesson 63. Framework Core: Create Builder Class part 1
+
+  create `builder` function
 
 <!-- 
 
-- Lesson 63. Framework Core: Create Builder Class part 1
 - Lesson 64. Framework Core: Create Builder Class part 2
 - Lesson 65. Framework Core: Create Builder Class part 3
 - Lesson 66. Extending Puppeteer Page with Custom Functions
