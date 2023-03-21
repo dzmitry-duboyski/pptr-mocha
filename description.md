@@ -18,11 +18,13 @@
 
   create first temp test and testing scripts `build` `clear` `test`
 
+- Lesson 62. Implementing Mocha-Steps library
+
+  use `step` in test
 
 
 <!-- 
 
-- Lesson 62. Implementing Mocha-Steps library
 - Lesson 63. Framework Core: Create Builder Class part 1
 - Lesson 64. Framework Core: Create Builder Class part 2
 - Lesson 65. Framework Core: Create Builder Class part 3
