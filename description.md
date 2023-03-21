@@ -26,9 +26,12 @@
 
   create `builder` function
 
+- Lesson 64. Framework Core: Create Builder Class part 2
+
+  add `viewport` in `builder` function
+  
 <!-- 
 
-- Lesson 64. Framework Core: Create Builder Class part 2
 - Lesson 65. Framework Core: Create Builder Class part 3
 - Lesson 66. Extending Puppeteer Page with Custom Functions
 - Lesson 67. Extending Puppeteer Page with Custom Functions part 2
